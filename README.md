@@ -1,5 +1,5 @@
 # fizzbuzz
-FizzBuzz Test Part 1
+FizzBuzz Test Step 1
 
 # Description
 This app prints out the following for a contiguous range of numbers:
